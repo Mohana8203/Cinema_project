@@ -1,0 +1,47 @@
+body{
+    background: url("./bbbbb.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#heading{
+    color:white;
+    background: black;
+    width:700px;
+    text-align:center ;
+    margin: auto;
+
+}
+#content{
+    display:flex;
+    background:rgb(0, 0, 0,0.9) ;
+    height:480px;
+    width:1210px;
+    margin:auto;
+    margin-top:30px;
+    justify-content: space-around;
+
+}
+img{
+    height:125px;
+    width:155px;
+    border:4px soild white;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 55%;
+    margin-left:20px;
+    margin-top:10px;
+    margin-bottom:20px ;
+    margin-right: 10px;
+    
+}
+#tittle{
+    color:white;
+    display:flex;
+    height:60px;
+    width:1210px;
+    background:black;
+    margin:auto;
+    justify-content:space-around ;
+
+
+}
